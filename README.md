@@ -1,5 +1,5 @@
 # project-sarjana-muda
-# thanks to tutorial
+# thanks to tutorial and documentation available
 
 using 
 1. django framework
